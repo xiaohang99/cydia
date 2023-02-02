@@ -1,0 +1,31 @@
+Package: com.xdocker.xdocker
+Version: 0.3.9
+Architecture: iphoneos-arm
+Maintainer: xiaohang
+Depends: mobilesubstrate
+Filename: debs/XDocker.deb
+Size: 592292
+MD5sum: f9056751b5a2444b57f061435382f789
+SHA1: d4d4ccfd26f29816cbb8a776228cd791a1882f45
+SHA256: 38d032e03ba342ab3198ac946ba94ec5bfd11fa63c517c9cdba37628ea7569eb
+Section: Tools
+Description: An awesome MobileSubstrate tweak!
+Author: xiaohang
+Name: xdocker
+
+Package: com.yourcompany.lianjiatool
+Version: 0.0.1-94+debug
+Architecture: iphoneos-arm
+Maintainer: xiaohang
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: debs/lianjiatool.deb
+Size: 23586
+MD5sum: 2d5e5c4b4cfd0d57b5d3d57a919c432f
+SHA1: 05ca6cde30675303b33bb744313a34303fdf3b85
+SHA256: ea6effd8409ab52a03ddadab28d9f9c02a9a4590196215c8f853b630dbd4c0ce
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: xiaohang
+Name: lianjiatool
+
